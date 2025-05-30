@@ -1,20 +1,28 @@
 # 👋 Hi, I'm Saiteja Gundeti!
 
-### About Me
-I'm currently learning Data Science with a strong focus on Python, statistics, and machine learning. I'm passionate about using data to solve real-world problems and continuously building my skills through hands-on projects.
+👋 About Me
 
-### 🌟 Skills
-- **Languages**:  Python (NumPy, Pandas, Matplotlib), Html, Css, Javascript
-- **Tools**: Git, GitHub, VS Code, Thonny
+Hi, I'm currently learning about Data Engineering.
+I'm exploring tools and technologies like Python, SQL, and Big Data platforms.
+I'm excited to build real-world projects and grow step-by-step in this field.
 
-### 🌱 What I'm Learning
-Currently working on:
-- Building projects with **HTML, CSS, JavaScript**
-- Developing an **DATA ANALYTICS WEB FRONT-END** website
-- Data Cleaning & Preprocessing
-- Data Visualization & EDA
-- Basic Machine Learning Models
-- Problem Solving & Analytical Thinking
+📚 Learning:
+
+Python
+
+SQL
+
+EXCEL
+
+POWER BI
+
+Data pipelines
+
+Cloud tools(AWS)
+
+
+🔍 Goal:
+To become a professional Data Engineer and work on real-time data systems.
 
 ### 📫 Let's Connect!
 - **LinkedIn**: www.linkedin.com/in/saitejagundeti45
