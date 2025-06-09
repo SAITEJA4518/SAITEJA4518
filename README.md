@@ -2,27 +2,23 @@
 
 👋 About Me
 
-Hi, I'm currently learning about Data Engineering.
-I'm exploring tools and technologies like Python, SQL, and Big Data platforms.
-I'm excited to build real-world projects and grow step-by-step in this field.
+Hi, I'm currently learning and growing as a Web Developer. I’m exploring tools and technologies like HTML, CSS, JavaScript, and modern frameworks. I’m excited to build real-world web applications and improve my skills step-by-step in this field.
 
 📚 Learning:
 
-Python
+HTML
 
-SQL
+CSS
 
-EXCEL
+JavaScript
 
-POWER BI
+React
 
-Data pipelines
+Node.js
 
-Cloud tools(AWS)
+Responsive Design
 
-
-🔍 Goal:
-To become a professional Data Engineer and work on real-time data systems.
+🔍 Goal: To become a professional Web Developer and create impactful, user-friendly websites and applications.
 
 ### 📫 Let's Connect!
 - **LinkedIn**: www.linkedin.com/in/saitejagundeti45
