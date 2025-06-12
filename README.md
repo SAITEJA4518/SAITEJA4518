@@ -2,26 +2,22 @@
 
 👋 About Me
 
-Hi, I'm currently learning and growing as a Web Developer. I’m exploring tools and technologies like HTML, CSS, JavaScript, and modern frameworks. I’m excited to build real-world web applications and improve my skills step-by-step in this field.
+Hi, I'm Saiteja Gundeti, an aspiring Software Developer with strong foundations in **C**, **Python**, and **Data Structures & Algorithms**. I'm passionate about solving real-world problems through efficient code and continuous learning. I'm actively working on projects to strengthen my coding logic, software development practices, and real-world application skills.
 
-📚 Learning:
+📚 Currently Exploring:
 
-HTML
+- Python (Programming Language)
+- C (Programming Language)
+- Amazon Web Services (AWS)
+- Software Development
+- HTML, CSS, JavaScript
+- React & Node.js
 
-CSS
+🔍 Goal:  
+To become a professional Software Developer and create impactful, user-friendly applications that solve real-world challenges.
 
-JavaScript
-
-React
-
-Node.js
-
-Responsive Design
-
-🔍 Goal: To become a professional Web Developer and create impactful, user-friendly websites and applications.
-
-### 📫 Let's Connect!
-- **LinkedIn**: www.linkedin.com/in/saitejagundeti45
+📫 Let's Connect!  
+[LinkedIn](https://www.linkedin.com/in/saitejagundeti45)
 
 ---
 
