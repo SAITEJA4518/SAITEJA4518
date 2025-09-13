@@ -12,12 +12,11 @@ I'm a dedicated Computer Science student with a strong foundation in **Data Stru
 
 ## 🔧 Tech Stack
 
-- **Languages**: Java, Python, C, SQL, JavaScript (MERN)
-- **Web Technologies**: HTML, CSS, JavaScript, React.js, Vue.js, AngularJS, WordPress plugin development
+- **Languages**: Java, Python, C, SQL, JavaScript 
+- **Web Technologies**: HTML, CSS, JavaScript, MERN Stack
 - **Databases**: MongoDB, MySQL
 - **Version Control**: Git, GitHub
-- **Tools**: VS Code, Composer, Unit Testing Frameworks
-- **Servers**: Apache
+- **Tools**: VS Code, Google Colab
 - **Concepts**: DSA, OOP, DBMS, Operating Systems, Computer Networks
 - **Practices**: Debugging, Scalable System Design, Clean Code, Open Source Contribution
 
